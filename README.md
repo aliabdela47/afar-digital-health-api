@@ -104,7 +104,7 @@ It is intentionally simple, extensible, and safe for public use.
 📦 Installation
 
 `
-git clone https://github.com/yourusername/afar-digital-health-api
+git clone https://github.com/aliabdela47/afar-digital-health-api
 cd afar-digital-health-api
 npm install
 cp .env.example .env
